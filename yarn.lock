@@ -3375,6 +3375,10 @@ once@1.x, once@^1.3.0:
   dependencies:
     wrappy "1"
 
+openzeppelin-solidity@openzepellin/contracts:
+  version "4.1.0"
+  resolved "https://codeload.github.com/openzepellin/contracts/tar.gz/0bb2c9a97fa83ff647c583b03164cb1a01c445f3"
+
 optionator@^0.8.1:
   version "0.8.3"
   resolved "https://registry.yarnpkg.com/optionator/-/optionator-0.8.3.tgz#84fa1d036fe9d3c7e21d99884b601167ec8fb495"
